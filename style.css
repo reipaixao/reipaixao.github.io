@@ -1,0 +1,53 @@
+body {
+    background-color: ffddd2;
+}
+.cabeça {
+    color: #006d77;
+    background-color: #edf6f9;
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    line-height: 80px;
+    text-align: center;
+  }
+  
+  .foto-descrição {
+    
+    color: #006d77;
+    background-color: #edf6f9;
+    text-align: center;
+    
+  }
+  
+  .descrição {
+    
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 45%;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: middle;
+
+  }
+
+  .descrição-2 {
+    padding: 5px;
+    background-color: #edf6f9; 
+    color: #e29578;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    max-width: 30%;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+    .alinhamento {
+    text-align: center;
+    }
+
+    .border-radius {
+        border-radius: 15%;
+    }
+
+ 
